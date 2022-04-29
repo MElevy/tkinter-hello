@@ -1,4 +1,4 @@
-import tkinter as tk # import odule
+import tkinter as tk # import module
 
 window = tk.Tk() # initialize window
 
