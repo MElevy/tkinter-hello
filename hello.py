@@ -1,5 +1,8 @@
-import tkinter as tk
-window=tk.Tk()
-hello=tk.Label(text='Hello, World!')
-hello.pack()
-window.mainloop()
+import tkinter as tk # import odule
+
+window = tk.Tk() # initialize window
+
+hello = tk.Label(text = 'Hello, World!') # create label
+hello.pack() # add label
+
+window.mainloop() # run the app
